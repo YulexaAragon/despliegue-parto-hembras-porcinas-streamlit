@@ -26,8 +26,6 @@ import pandas as pd # manipulacion dataframes
 import numpy as np  # matrices y vectores
 import matplotlib.pyplot as plt #gráfica
 
-"""## **1. Carga del modelo**"""
-
 # Se importa la librería pickle para cargar objetos almacenados
 import pickle
 
@@ -39,8 +37,6 @@ filename = 'modelo-class-partos.pkl'
 # labelencoder -> codificador de etiquetas utilizado
 # variables -> nombres de las variables predictoras
 modelTree, labelencoder, variables = pickle.load(open(filename, 'rb'))
-
-"""## **2. Carga de los datos futuros**"""
 
 # Se cargan los datos futuros desde un archivo CSV que contiene las nuevas observaciones a predecir
 #data = pd.read_csv("sabana_hembras_porcinas-datos_futuros.csv")
