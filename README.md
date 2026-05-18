@@ -26,6 +26,10 @@ Este proyecto forma parte de un trabajo de minería de datos con metodología CR
 - **Precisión:** 61.7%
 - **F1-Score:** 56.0%
 
+## App desplegada
+
+Accede a la aplicación en línea aquí: https://despliegue-parto-hembras-porcinas-app-yhrhykfa2rccg59xjec3vl.streamlit.app/#resumen-de-datos-ingresados
+
 ## Cómo ejecutar
 
 1. Clona el repositorio:
