@@ -21,10 +21,10 @@ Este proyecto forma parte de un trabajo de minería de datos con metodología CR
 
 ## Modelo
 
-- **Algoritmo:** Árbol de Decisión
-- **Accuracy:** 62.2%
-- **Precisión:** 61.4%
-- **F1-Score:** 56.3%
+- **Algoritmo:** Random Forest
+- **Accuracy:** 62.3%
+- **Precisión:** 61.7%
+- **F1-Score:** 56.0%
 
 ## Cómo ejecutar
 
