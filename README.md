@@ -4,7 +4,7 @@ Aplicación web desarrollada con Streamlit para predecir si el parto de una hemb
 
 ## Descripción
 
-Este proyecto forma parte de un trabajo de minería de datos con metodología CRISP-DM, desarrollado como parte de la Maestría en Ciencia de Datos. El modelo de clasificación fue entrenado con 350.981 registros de hembras porcinas y utiliza un Árbol de Decisión como modelo predictivo.
+Este proyecto forma parte de un trabajo de minería de datos con metodología CRISP-DM, desarrollado como parte de la Maestría en Ciencia de Datos. El modelo de clasificación fue entrenado con 350.981 registros de hembras porcinas y utiliza un Random Forest como modelo predictivo.
 
 ## Variable objetivo
 
