@@ -26,6 +26,13 @@ Este proyecto forma parte de un trabajo de minería de datos con metodología CR
 - **Precisión:** 61.7%
 - **F1-Score:** 56.0%
 
+## ¿Qué muestra la app?
+
+- **Resultado de la predicción:** si el parto será probablemente exitoso o no, con la probabilidad estimada por el modelo.
+- **Perfil reproductivo más parecido:** el grupo de K-Means (k = 6) al que más se parece la hembra y su tasa histórica de éxito.
+- **Importancia de las variables:** qué tanto pesa cada variable en las decisiones del Random Forest.
+- **Información del modelo:** metodología, métricas de desempeño y recomendaciones de uso.
+
 ## App desplegada
 
 Accede a la aplicación en línea aquí: https://despliegue-parto-hembras-porcinas-app-yhrhykfa2rccg59xjec3vl.streamlit.app/#resumen-de-datos-ingresados
